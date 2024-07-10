@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion.",
+        "title": "Transform Your Work Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Work Experience",
+  "subtitle": "Elevate productivity and streamline your tasks with workd - your ultimate work companion."
+}
